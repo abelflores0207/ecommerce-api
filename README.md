@@ -200,4 +200,4 @@ Todos los errores comparten el mismo formato:
 
 ## 👤 Autor
 
-**[Tu Nombre]** — [LinkedIn](https://linkedin.com/in/tu-perfil) · [GitHub](https://github.com/tu-usuario)
+**Abel Adam Flores** — [LinkedIn](https://www.linkedin.com/in/abel-adam-flores-b67242370) · [GitHub](https://github.com/abelflores0207)
